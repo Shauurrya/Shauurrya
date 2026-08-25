@@ -115,6 +115,7 @@ shaurya@cyber-core:~$ cat about.txt
       </p>
       <p>
         <a href="https://github.com/Shauurrya/F1-2026-Intelligence"><img src="https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+        <a href="https://shauurrya.github.io/F1-2026-Intelligence/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
