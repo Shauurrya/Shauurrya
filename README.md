@@ -8,7 +8,7 @@
 
   <p align="center">
     <a href="https://readme-typing-svg.demolab.com">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FF003C&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Systems+Builder;Cloud+Architect;Digital+Strategy+Specialist" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FF003C&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;AI+Systems+Engineer;Cloud+Architect" alt="Typing Tagline" />
     </a>
   </p>
 
@@ -47,15 +47,15 @@ shaurya@cyber-core:~$ cat about.txt
 │ • Education      : BCA @ CHRIST (Deemed to be University) [2024 - 2027]
 │ • Bio / Focus    : Scalable full-stack systems, real-time CV & applied AI/ML
 │
-├── [ENGINEERED BUILDS & INITIATIVES]
+├── [ENGINEERED BUILDS & SYSTEMS]
 │ • GestureStrike  : Real-time CV arcade game -> https://github.com/Shauurrya/gesture-strike
 │                    ↳ Live: https://gesture-strike.vercel.app
 │ • RetroArcadeOS  : Browser-based retro arcade OS -> https://github.com/Shauurrya/RetroArcadeOS
 │                    ↳ Live: https://retro-arcade-os.vercel.app
 │ • F1-Intelligence: Bayesian F1 race forecasting engine -> https://github.com/Shauurrya/F1-2026-Intelligence
-│                    ↳ Live: https://shauurrya.github.io/F1-2026-Intelligence/
 │ • VitalCoreAI    : Android health analytics engine -> https://github.com/Shauurrya/VitalCoreAI [APK]
 │ • Inventra       : MSME cloud ERP & inventory SaaS -> https://github.com/Shauurrya/inventra
+│ • TrustBuy AI    : AI scam shopping site detector [wip]
 │ • 7-Kaam         : AI skill certification & trust engine [wip / team platform]
 │
 ├── [RESEARCH & SPECIALIZATIONS]
@@ -72,23 +72,11 @@ shaurya@cyber-core:~$ cat about.txt
 ---
 
 <div align="center">
-  <h3>~/ featured builds</h3>
+  <h2>🚀 Featured Projects</h2>
 </div>
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h4>⚡ VitalCoreAI</h4>
-      <p>Android biometric analytics engine computing Readiness, Recovery, Day Strain, Sleep Debt, and ACWR training load from Health Connect data without requiring subscription wearables.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-        <img src="https://img.shields.io/badge/Health_Connect-4285F4?style=for-the-badge&logo=googlefit&logoColor=white" alt="Health Connect" />
-      </p>
-      <p>
-        <a href="https://github.com/Shauurrya/VitalCoreAI"><img src="https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
-      </p>
-    </td>
     <td width="50%" valign="top">
       <h4>🎮 GestureStrike</h4>
       <p>Real-time computer-vision arcade game with zero physical controllers, powered entirely through sub-millisecond hand tracking and gesture inference in the browser.</p>
@@ -100,21 +88,6 @@ shaurya@cyber-core:~$ cat about.txt
       <p>
         <a href="https://github.com/Shauurrya/gesture-strike"><img src="https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
         <a href="https://gesture-strike.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏎️ F1-2026-Intelligence</h4>
-      <p>Race-intelligence dashboard bundling Bayesian lap estimation, Markov chain race simulations, aero & engine degradation physics, and grid penalty prediction.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/ML_Simulations-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="ML" />
-      </p>
-      <p>
-        <a href="https://github.com/Shauurrya/F1-2026-Intelligence"><img src="https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
-        <a href="https://shauurrya.github.io/F1-2026-Intelligence/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -131,12 +104,50 @@ shaurya@cyber-core:~$ cat about.txt
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏎️ F1-2026-Intelligence</h4>
+      <p>Race-intelligence dashboard bundling Bayesian lap estimation, Markov chain race simulations, aero & engine degradation physics, and grid penalty prediction.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="ML" />
+      </p>
+      <p>
+        <a href="https://github.com/Shauurrya/F1-2026-Intelligence"><img src="https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ VitalCoreAI</h4>
+      <p>Android biometric analytics engine computing Readiness, Recovery, Day Strain, Sleep Debt, and ACWR training load from Health Connect data without requiring subscription wearables.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+        <img src="https://img.shields.io/badge/Health_Connect-4285F4?style=for-the-badge&logo=googlefit&logoColor=white" alt="Health Connect" />
+      </p>
+      <p>
+        <a href="https://github.com/Shauurrya/VitalCoreAI"><img src="https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🛡️ TrustBuy AI</h4>
+      <p>AI-powered scam shopping site detection platform analyzing domain telemetry, SSL trust chains, and real-time merchant legitimacy scoring.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/Status-In_Development-FFA116?style=for-the-badge" alt="Status" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
 
 <div align="center">
-  <h3>~/ toolbox</h3>
+  <h2>🛠️ Toolbox</h2>
 </div>
 
 <table align="center" width="100%">
@@ -169,7 +180,7 @@ shaurya@cyber-core:~$ cat about.txt
 ---
 
 <div align="center">
-  <h3>~/ certifications</h3>
+  <h2>📜 Certifications</h2>
 </div>
 
 <table align="center" width="100%">
@@ -218,7 +229,7 @@ shaurya@cyber-core:~$ cat about.txt
 ---
 
 <div align="center">
-  <h3>~/ activity stream</h3>
+  <h2>⚡ Activity Stream</h2>
   <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shauurrya/Shauurrya/output/github-contribution-grid-snake-dark.svg">
@@ -230,7 +241,7 @@ shaurya@cyber-core:~$ cat about.txt
 ---
 
 <div align="center">
-  <h3>~/ isometric activity grid</h3>
+  <h2>📊 Isometric Contribution Grid</h2>
   <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
@@ -242,7 +253,7 @@ shaurya@cyber-core:~$ cat about.txt
 ---
 
 <div align="center">
-  <h3>~/ trophies</h3>
+  <h2>🏆 Trophies</h2>
   <br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Shauurrya&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
@@ -252,7 +263,7 @@ shaurya@cyber-core:~$ cat about.txt
 ---
 
 <div align="center">
-  <h3>~/ the numbers</h3>
+  <h2>📈 GitHub Stats</h2>
   <br/>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Shauurrya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Shaurya's GitHub Stats" height="175" />
