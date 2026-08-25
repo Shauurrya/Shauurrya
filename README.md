@@ -8,7 +8,7 @@
 
   <p align="center">
     <a href="https://readme-typing-svg.demolab.com">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FF003C&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;AI+Systems+Builder;Cloud+Architect" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FF003C&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Systems+Builder;Cloud+Architect;Digital+Strategy+Specialist" alt="Typing SVG" />
     </a>
   </p>
 
@@ -18,6 +18,8 @@
     <a href="https://linkedin.com/in/shaurya-garg-82925a34b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:shauryagargfill0007@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://shauurrya-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://leetcode.com/u/Shauurrya"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+    <a href="https://codeforces.com/profile/Shauurrya"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
   </p>
 
   <p>
@@ -28,6 +30,8 @@
     <a href="https://shauurrya-portfolio.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/%24_open_shaurya--portfolio_--mode=desktop-10B981?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Open Portfolio" />
     </a>
+    <br/>
+    <sub>🎮 <b>WASD / Arrow keys</b> to walk the retro 8-bit desktop &bull; <b>ENTER</b> to open folders &bull; <b>ESC</b> to return</sub>
   </p>
 
 </div>
@@ -43,11 +47,11 @@ shaurya@cyber-core:~$ cat about.txt
 │ • Role           : Full-Stack Developer & AI Systems Engineer
 │ • Location       : Bengaluru, India
 │ • Education      : BCA @ CHRIST (Deemed to be University) [2024 - 2027]
-│ • Bio / Tagline  : Building at the intersection of high-performance web engineering and intelligent systems.
+│ • Bio / Tagline  : Building at the intersection of high-performance web engineering, intelligent systems & digital strategy.
 │
 ├── [CURRENT FOCUS & INITIATIVES]
 │ • Active Project : GestureStrike (Real-time CV arcade game) -> https://github.com/Shauurrya/gesture-strike
-│ • Major Systems  : 7-Kaam (AI worker trust engine), Inventra (Cloud ERP), VitalCoreAI (Biometrics engine)
+│ • Major Systems  : 7-Kaam (AI worker trust engine), Inventra (Cloud ERP), VitalCoreAI (Biometrics engine), RetroArcadeOS
 │ • Learning Goals : Distributed Systems, Scalable Cloud Architectures & Applied AI/ML
 │ • Origin Story   : Started by hacking together retro games and algorithms; now engineering production-ready web and mobile ecosystems.
 │
@@ -66,41 +70,54 @@ shaurya@cyber-core:~$ cat about.txt
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🛡️ TrustBuy AI</h4>
-      <p>AI-powered scam shopping site detection platform analyzing domain telemetry, SSL trust chains, and real-time merchant legitimacy.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h4>⚡ VitalCoreAI</h4>
-      <p>Biometric analytics engine computing Readiness, Recovery, Sleep Debt, and ACWR training load from Health Connect and wearable telemetry.</p>
+      <p>Android biometric analytics engine computing Readiness, Recovery, Day Strain, Sleep Debt, and ACWR training load from Health Connect data without requiring subscription wearables.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
         <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-        <a href="https://github.com/Shauurrya/VitalCoreAI"><img src="https://img.shields.io/badge/Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+        <img src="https://img.shields.io/badge/Health_Connect-4285F4?style=for-the-badge&logo=googlefit&logoColor=white" alt="Health Connect" />
+      </p>
+      <p>
+        <a href="https://github.com/Shauurrya/VitalCoreAI"><img src="https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎮 GestureStrike</h4>
+      <p>Real-time computer-vision arcade game with zero physical controllers, powered entirely through sub-millisecond hand tracking and gesture inference in the browser.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Computer_Vision-FF003C?style=for-the-badge&logo=opencv&logoColor=white" alt="CV" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+      </p>
+      <p>
+        <a href="https://github.com/Shauurrya/gesture-strike"><img src="https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎮 GestureStrike</h4>
-      <p>Real-time computer-vision arcade game with zero physical controllers, powered entirely by hand-tracking and gesture inference.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Computer_Vision-FF003C?style=for-the-badge&logo=opencv&logoColor=white" alt="CV" />
-        <a href="https://github.com/Shauurrya/gesture-strike"><img src="https://img.shields.io/badge/Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h4>🏎️ F1-2026-Intelligence</h4>
-      <p>Race-intelligence dashboard bundling Bayesian lap estimation, Markov race simulations, tire degradation physics, and grid penalty models.</p>
+      <p>Race-intelligence dashboard bundling Bayesian lap estimation, Markov chain race simulations, aero & engine degradation physics, and grid penalty prediction.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        <a href="https://github.com/Shauurrya/F1-2026-Intelligence"><img src="https://img.shields.io/badge/Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+        <img src="https://img.shields.io/badge/ML_Simulations-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="ML" />
+      </p>
+      <p>
+        <a href="https://github.com/Shauurrya/F1-2026-Intelligence"><img src="https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🕹️ RetroArcadeOS</h4>
+      <p>Browser-based retro arcade operating system and multi-game emulation ecosystem engineered with pure vanilla web architecture and pixel-perfect aesthetics.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      </p>
+      <p>
+        <a href="https://github.com/Shauurrya/RetroArcadeOS"><img src="https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+        <a href="https://retro-arcade-os.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Deploy-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" /></a>
       </p>
     </td>
   </tr>
@@ -110,11 +127,83 @@ shaurya@cyber-core:~$ cat about.txt
 
 <div align="center">
   <h3>~/ toolbox</h3>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,js,ts,nodejs,express,mongodb,react,nextjs,python,fastapi,git,bash,linux,docker" alt="Tech Stack" />
-  </a>
 </div>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="25%" valign="top"><b>💻 Languages & Core</b></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cs,java,python,js,ts,php&perline=7" alt="Languages" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>🌐 Frontend & Web</b></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&perline=6" alt="Frontend" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>⚙️ Backend & Cloud</b></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,postgres,mongodb,redis,aws&perline=7" alt="Backend & Cloud" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>🤖 AI, Mobile & Tools</b></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kotlin,androidstudio,fastapi,docker,git,linux,bash&perline=7" alt="Tools & Systems" /></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <h3>~/ certifications</h3>
+</div>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <b>☁️ AWS Academy Graduate &mdash; Cloud Foundations</b><br/>
+      <sub>AWS &bull; Aug 2026 &bull; <a href="https://www.credly.com/go/sIrwWzXO" target="_blank">Credly Verification</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>🎓 NPTEL &lsquo;Elite&rsquo; Certification in E-Business</b><br/>
+      <sub>IIT Kharagpur &bull; 12-Week Intensive &bull; Score: 62%</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🔬 Nano Tech & Genetic Engineering Research</b><br/>
+      <sub>Corizo Edutech &bull; Technical Training (IIT Bombay affiliate)</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>💼 JuniorMBA in Digital Marketing</b><br/>
+      <sub>Clever Harvey &bull; Client Brand: Puma</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🛠️ 45-Day PHP Web Development Internship</b><br/>
+      <sub>The Lead Origin &bull; Recognized for Outstanding Contribution</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>🐍 Python & Core Java Certifications</b><br/>
+      <sub>Infosys Springboard &bull; QR-Verifiable Foundations</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🧠 Practical GenAI: Tools, Ethics & Future</b><br/>
+      <sub>Udemy &bull; 10.5 Hours Applied Generative AI</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>📱 Android Mobile App Development</b><br/>
+      <sub>Gamecraft Workshop &bull; CHRIST (Deemed to be University)</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
