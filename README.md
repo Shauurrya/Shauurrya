@@ -1,7 +1,7 @@
 <div align="center">
 
   <p align="center">
-    <img src="./assets/header-animation.gif" alt="Profile Banner" width="450px" />
+    <img src="./assets/cyber-header-animated.gif" alt="Dynamic Cyber Banner" width="480px" />
   </p>
 
   <h1>⚡ Shaurya Garg ⚡</h1>
