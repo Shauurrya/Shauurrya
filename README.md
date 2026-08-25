@@ -55,7 +55,6 @@ shaurya@cyber-core:~$ cat about.txt
 │ • F1-Intelligence: Bayesian F1 race forecasting engine -> https://github.com/Shauurrya/F1-2026-Intelligence
 │ • VitalCoreAI    : Android health analytics engine -> https://github.com/Shauurrya/VitalCoreAI [APK]
 │ • Inventra       : MSME cloud ERP & inventory SaaS -> https://github.com/Shauurrya/inventra
-│ • TrustBuy AI    : AI scam shopping site detector [wip]
 │ • 7-Kaam         : AI skill certification & trust engine [wip / team platform]
 │
 ├── [RESEARCH & SPECIALIZATIONS]
@@ -128,18 +127,6 @@ shaurya@cyber-core:~$ cat about.txt
       </p>
       <p>
         <a href="https://github.com/Shauurrya/VitalCoreAI"><img src="https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h4>🛡️ TrustBuy AI</h4>
-      <p>AI-powered scam shopping site detection platform analyzing domain telemetry, SSL trust chains, and real-time merchant legitimacy scoring.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-        <img src="https://img.shields.io/badge/Status-In_Development-FFA116?style=for-the-badge" alt="Status" />
       </p>
     </td>
   </tr>
