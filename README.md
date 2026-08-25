@@ -45,18 +45,28 @@ shaurya@cyber-core:~$ cat about.txt
 │ • Role           : Full-Stack Developer & AI Systems Engineer
 │ • Location       : Bengaluru, India
 │ • Education      : BCA @ CHRIST (Deemed to be University) [2024 - 2027]
-│ • Bio / Tagline  : Building at the intersection of high-performance web engineering, intelligent systems & digital strategy.
+│ • Bio / Focus    : Scalable full-stack systems, real-time CV & applied AI/ML
 │
-├── [CURRENT FOCUS & INITIATIVES]
-│ • Active Project : GestureStrike (Real-time CV arcade game) -> https://github.com/Shauurrya/gesture-strike
-│ • Major Systems  : 7-Kaam (AI worker trust engine), Inventra (Cloud ERP), VitalCoreAI (Biometrics engine), RetroArcadeOS
-│ • Learning Goals : Distributed Systems, Scalable Cloud Architectures & Applied AI/ML
-│ • Origin Story   : Started by hacking together retro games and algorithms; now engineering production-ready web and mobile ecosystems.
+├── [ENGINEERED BUILDS & INITIATIVES]
+│ • GestureStrike  : Real-time CV arcade game -> https://github.com/Shauurrya/gesture-strike
+│                    ↳ Live: https://gesture-strike.vercel.app
+│ • RetroArcadeOS  : Browser-based retro arcade OS -> https://github.com/Shauurrya/RetroArcadeOS
+│                    ↳ Live: https://retro-arcade-os.vercel.app
+│ • F1-Intelligence: Bayesian F1 race forecasting engine -> https://github.com/Shauurrya/F1-2026-Intelligence
+│                    ↳ Live: https://shauurrya.github.io/F1-2026-Intelligence/
+│ • VitalCoreAI    : Android health analytics engine -> https://github.com/Shauurrya/VitalCoreAI [APK]
+│ • Inventra       : MSME cloud ERP & inventory SaaS -> https://github.com/Shauurrya/inventra
+│ • 7-Kaam         : AI skill certification & trust engine [wip / team platform]
+│
+├── [RESEARCH & SPECIALIZATIONS]
+│ • Deepening      : Distributed Systems, Scalable Cloud Architectures & Applied AI/ML
+│ • Origin Story   : Hacking retro game loops to architecting production web/cloud systems
 │
 └── [ACCESS POINTS & COMMS]
     • Portfolio    : https://shauurrya-portfolio.vercel.app
     • Direct Comms : shauryagargfill0007@gmail.com
-    • Status       : Open for impactful engineering opportunities & technical collaborations
+    • Uptime       : Compiling ambition since 2024
+    • Status       : Open for high-impact engineering roles & collaborations
 ```
 
 ---
@@ -89,6 +99,7 @@ shaurya@cyber-core:~$ cat about.txt
       </p>
       <p>
         <a href="https://github.com/Shauurrya/gesture-strike"><img src="https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+        <a href="https://gesture-strike.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
       </p>
     </td>
   </tr>
@@ -103,6 +114,7 @@ shaurya@cyber-core:~$ cat about.txt
       </p>
       <p>
         <a href="https://github.com/Shauurrya/F1-2026-Intelligence"><img src="https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+        <a href="https://shauurrya.github.io/F1-2026-Intelligence/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -115,7 +127,7 @@ shaurya@cyber-core:~$ cat about.txt
       </p>
       <p>
         <a href="https://github.com/Shauurrya/RetroArcadeOS"><img src="https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
-        <a href="https://retro-arcade-os.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Deploy-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" /></a>
+        <a href="https://retro-arcade-os.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
       </p>
     </td>
   </tr>
