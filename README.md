@@ -1,7 +1,7 @@
 <div align="center">
 
   <p align="center">
-    <img src="./assets/avatar.jpg" alt="Shaurya Garg" width="180px" />
+    <img src="./assets/shaurya-avatar.png" alt="Shaurya Garg" width="180px" />
   </p>
 
   <h1>⚡ Shaurya Garg ⚡</h1>
