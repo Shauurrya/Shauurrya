@@ -146,6 +146,7 @@ shaurya@cyber-core:~$ cat about.txt
       </p>
       <p>
         <a href="https://github.com/Shauurrya/VitalCoreAI"><img src="https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+        <a href="https://github.com/Shauurrya/VitalCoreAI/releases/download/v1.1.0/VitalCoreAI-v1.1.0.apk"><img src="https://img.shields.io/badge/Android_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android APK" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
