@@ -48,6 +48,8 @@ shaurya@cyber-core:~$ cat about.txt
 │ • Bio / Focus    : Scalable full-stack systems, real-time CV & applied AI/ML
 │
 ├── [ENGINEERED BUILDS & SYSTEMS]
+│ • PDF Studio     : Client-side privacy-first PDF editor -> https://github.com/Shauurrya/private-pdf-studio
+│                    ↳ Live: https://private-pdf-studio.vercel.app/editor [APK / Win]
 │ • GestureStrike  : Real-time CV arcade game -> https://github.com/Shauurrya/gesture-strike
 │                    ↳ Live: https://gesture-strike.vercel.app
 │ • RetroArcadeOS  : Browser-based retro arcade OS -> https://github.com/Shauurrya/RetroArcadeOS
@@ -77,6 +79,21 @@ shaurya@cyber-core:~$ cat about.txt
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h4>🔒 Private PDF Studio</h4>
+      <p>Privacy-first, client-side PDF studio & editor with 100% in-browser processing. Merge, split, annotate, sign, fill forms, watermark, and permanently redact with zero server uploads.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" alt="Capacitor" />
+      </p>
+      <p>
+        <a href="https://github.com/Shauurrya/private-pdf-studio"><img src="https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+        <a href="https://private-pdf-studio.vercel.app/editor" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+        <a href="https://github.com/Shauurrya/private-pdf-studio/releases/download/v1.0.0/private-pdf-studio-windows.zip"><img src="https://img.shields.io/badge/Windows_App-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows App" /></a>
+        <a href="https://github.com/Shauurrya/private-pdf-studio/releases/download/v1.0.0/private-pdf-studio-android.apk"><img src="https://img.shields.io/badge/Android_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android APK" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h4>🎮 GestureStrike</h4>
       <p>Real-time computer-vision arcade game with zero physical controllers, powered entirely through sub-millisecond hand tracking and gesture inference in the browser.</p>
       <p>
@@ -89,6 +106,8 @@ shaurya@cyber-core:~$ cat about.txt
         <a href="https://gesture-strike.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>🕹️ RetroArcadeOS</h4>
       <p>Browser-based retro arcade operating system and multi-game emulation ecosystem engineered with pure vanilla web architecture and pixel-perfect aesthetics.</p>
@@ -102,8 +121,6 @@ shaurya@cyber-core:~$ cat about.txt
         <a href="https://retro-arcade-os.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>🏎️ F1-2026-Intelligence</h4>
       <p>Race-intelligence dashboard bundling Bayesian lap estimation, Markov chain race simulations, aero & engine degradation physics, and grid penalty prediction.</p>
@@ -117,6 +134,8 @@ shaurya@cyber-core:~$ cat about.txt
         <a href="https://shauurrya.github.io/F1-2026-Intelligence/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo" /></a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>⚡ VitalCoreAI</h4>
       <p>Android biometric analytics engine computing Readiness, Recovery, Day Strain, Sleep Debt, and ACWR training load from Health Connect data without requiring subscription wearables.</p>
@@ -127,6 +146,18 @@ shaurya@cyber-core:~$ cat about.txt
       </p>
       <p>
         <a href="https://github.com/Shauurrya/VitalCoreAI"><img src="https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📦 Inventra</h4>
+      <p>Modern MSME cloud ERP & inventory management SaaS platform designed for agile stock tracing, multi-channel procurement workflows, and real-time revenue analytics.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </p>
+      <p>
+        <a href="https://github.com/Shauurrya/inventra"><img src="https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
       </p>
     </td>
   </tr>
