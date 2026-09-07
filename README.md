@@ -276,7 +276,7 @@ shaurya@cyber-core:~$ cat about.txt
   <h2>🏆 Trophies</h2>
   <br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Shauurrya&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
+    <img src="https://profile-trophy.vercel.app/?username=Shauurrya&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -286,9 +286,9 @@ shaurya@cyber-core:~$ cat about.txt
   <h2>📈 GitHub Stats</h2>
   <br/>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shauurrya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Shaurya's GitHub Stats" height="175" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shauurrya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="Shaurya's GitHub Stats" height="175" />
     &nbsp;
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shauurrya&theme=tokyonight&hide_border=true&background=0D1117" alt="Shaurya's GitHub Streak" height="175" />
+    <img src="https://streak-stats.demolab.com/?user=Shauurrya&theme=tokyonight&hide_border=true&background=0D1117" alt="Shaurya's GitHub Streak" height="175" />
   </p>
 </div>
 
