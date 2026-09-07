@@ -276,7 +276,7 @@ shaurya@cyber-core:~$ cat about.txt
   <h2>🏆 Trophies</h2>
   <br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://profile-trophy.vercel.app/?username=Shauurrya&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
+    <img src="https://profile-trophy.vercel.app/?username=Shauurrya&theme=darkhub&no-frame=true&no-bg=true&row=1&column=5&title=Commits,Repositories,Stars,PullRequest,Issues" alt="GitHub Trophies" />
   </a>
 </div>
 
